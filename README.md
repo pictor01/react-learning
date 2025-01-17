@@ -1,1 +1,1 @@
-thie is my react learning Paul A. Alba
+this is my react learning Paul A. Alba
